@@ -1,0 +1,46 @@
+button {
+    background-color: #72f804;
+    color: black;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 4px;
+    margin: 20px;
+}
+
+button:hover {
+    background-color: rgb(255, 136, 0);
+}
+
+button:active {
+    background-color: gray;
+}
+body {
+    text-align: center;
+    background-image: url(123.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+}
+h1 {
+    background-color: rgb(255, 136, 0);
+    color: white;
+    padding: 20px;
+    font-size: 30px;
+}
+h1:hover {
+    background-color:  rgb(255, 136, 0);
+    color: black;
+}
+
+
+.btny0{
+    margin-right: 30px;
+}
